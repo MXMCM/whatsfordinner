@@ -7,6 +7,8 @@ body {
 
 .container{
   padding: 48px;
+  display:flex;
+  gap:16px;
 }
 
 .card{
@@ -15,6 +17,7 @@ body {
   width: 350px;
   position: relative;
   overflow: hidden;
+
 }
 
 .card-header-image{
